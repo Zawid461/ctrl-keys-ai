@@ -78,3 +78,13 @@ cd ctrl-keys-ai
 pip install -r requirements.txt
 
 streamlit run ui.py
+
+## 👨‍💻 Author
+
+**Abdul Zawid Sabeer Ahamed**
+
+B.Tech Computer Science and Business Systems (CSBS)  
+Mailam Engineering College
+
+- GitHub: https://github.com/Zawid461
+- LinkedIn: https://www.linkedin.com/in/abdul-zawid-06a833...
