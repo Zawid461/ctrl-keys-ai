@@ -1,0 +1,38 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# VS Code
+.vscode/
+
+# Generated Projects
+generated_projects/
+
+# Logs
+logs/
+
+# History
+project_history.json
+
+# OS Files
+Thumbs.db
+.DS_Store
+
+# Streamlit Cache
+.streamlit/
+
+# Python Cache
+.pytest_cache/
+
+# Build
+dist/
+build/
+
+# ZIP Files
+*.zip
